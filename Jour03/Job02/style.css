@@ -1,0 +1,20 @@
+#arc-en-ciel-verif{
+    border: 1px solid black;
+    height:100px;
+}
+
+#exemple{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:0px;
+    padding: 0px;
+}
+img{
+    margin:0%;
+    padding: 0%;
+}
+#image1{
+    margin:0%;
+    padding: 0%;
+}
